@@ -144,6 +144,9 @@ function typeReply(text) {
 //   return `I received: "${userMessage}". Connect your bot API inside getBotReply() and this area will show the live assistant response with the same animation.`;
 // }
 
+const GEMINI_API_KEY = ""; // Replace with your actual API key
+const GEMINI_MODEL = "gemini-2.5-flash";
+
 async function getBotReply(userMessage) {
   const response = await fetch(
     `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent`,
