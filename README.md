@@ -1,6 +1,7 @@
 # Chat Line - AI Chatbot Website
 
 Chat Line is a modern responsive AI chatbot landing page built with HTML, CSS, and JavaScript. It includes a polished hero section, animated chatbot interface, light and dark mode, smooth transitions, responsive layouts, and a clear place to connect your chatbot API such as Gemini.
+<img width="933" height="689" alt="image" src="https://github.com/user-attachments/assets/9c3d2577-c1a2-4656-bac6-7c9e2da4cbbf" />
 
 ## Features
 
